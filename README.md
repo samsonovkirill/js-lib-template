@@ -1,0 +1,1 @@
+Basic JavaScript template for fast start
